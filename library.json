@@ -1,9 +1,9 @@
 {
   "keywords": [
-    "esp8266","esp-12","espressif","industrialisation","esp-01","esp8266EX"
+    "home automation","mqtt","domokit","nodemcu","arduino"
   ],
   "version": "1.0.0",
-  "name": "Domokit_ESP8266",
+  "name": "Domokit",
   "authors": 
 		[
 		  {
@@ -13,7 +13,11 @@
 			  "email": "thomas.broussard91@gmail.com"
 		   }
 		],
-  "description": "Librairie dédié à la manipulation bas niveau de l'ESP8266",
+  "description": "Librairie dédié aux objets connectés du projet Domokit",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Thomas-Broussard/Domokit.git"
+  },
   "frameworks": [],
   "platforms": []
 }
