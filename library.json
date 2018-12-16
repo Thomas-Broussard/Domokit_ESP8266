@@ -1,0 +1,19 @@
+{
+  "keywords": [
+    "esp8266","esp-12","espressif","industrialisation","esp-01","esp8266EX"
+  ],
+  "version": "1.0.0",
+  "name": "Domokit_ESP8266",
+  "authors": 
+		[
+		  {
+			  "url": "https://www.linkedin.com/in/thomas-broussard-463b85129/",
+			  "maintainer": true,
+			  "name": "Thomas Broussard",
+			  "email": "thomas.broussard91@gmail.com"
+		   }
+		],
+  "description": "Librairie dédié à la manipulation bas niveau de l'ESP8266",
+  "frameworks": [],
+  "platforms": []
+}
