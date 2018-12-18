@@ -1,9 +1,9 @@
 {
   "keywords": [
-    "home automation","mqtt","domokit","nodemcu","arduino"
+    "home automation","mqtt","domokit","nodemcu","arduino","esp8266","esp-12"
   ],
   "version": "1.0.0",
-  "name": "Domokit",
+  "name": "Domokit ESP8266",
   "authors": 
 		[
 		  {
@@ -13,10 +13,10 @@
 			  "email": "thomas.broussard91@gmail.com"
 		   }
 		],
-  "description": "Librairie dédié aux objets connectés du projet Domokit",
+  "description": "Librairie permettant de programmer des ESP8266 , pour le projet Domokit",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Thomas-Broussard/Domokit.git"
+    "url": "https://github.com/Thomas-Broussard/Domokit_ESP8266.git"
   },
   "frameworks": [],
   "platforms": []
